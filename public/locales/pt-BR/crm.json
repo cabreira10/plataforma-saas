@@ -1,0 +1,36 @@
+{
+  "title": "CRM",
+  "subtitle": "Gerencie seus leads e pipeline de vendas",
+  "lead": {
+    "create": "Novo Lead",
+    "edit": "Editar Lead",
+    "delete": "Excluir Lead",
+    "deleteConfirm": "Tem certeza que deseja excluir {{name}}?"
+  },
+  "stage": {
+    "label": "Etapa",
+    "create": "Nova Etapa",
+    "empty": "Arraste leads aqui",
+    "configure": "Configurar etapas"
+  },
+  "field": {
+    "label": "Campo",
+    "create": "Novo Campo",
+    "visibleInKanban": "Visível no kanban",
+    "types": {
+      "text": "Texto",
+      "email": "E-mail",
+      "phone": "Telefone",
+      "number": "Número",
+      "currency": "Valor"
+    }
+  },
+  "empty": {
+    "title": "Configure seu funil de vendas",
+    "description": "Crie etapas e campos personalizados para começar a gerenciar seus leads."
+  },
+  "settings": {
+    "stages": "Configurar Etapas",
+    "fields": "Configurar Campos"
+  }
+}

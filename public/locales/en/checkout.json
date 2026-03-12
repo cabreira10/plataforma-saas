@@ -1,0 +1,34 @@
+{
+  "title": "Checkout",
+  "subtitle": "Acompanhe as vendas e transações",
+  "metrics": {
+    "total": "Total de Vendas",
+    "approved": "Aprovadas",
+    "rejected": "Recusadas",
+    "abandoned": "Abandonadas",
+    "refunded": "Reembolsos"
+  },
+  "webhook": {
+    "title": "Configuração de Webhook",
+    "url": "URL do Webhook",
+    "copy": "Copiar URL",
+    "generate": "Gerar nova URL",
+    "copied": "URL copiada!",
+    "generated": "Nova URL gerada!"
+  },
+  "table": {
+    "name": "Nome",
+    "email": "E-mail",
+    "product": "Produto",
+    "status": "Status",
+    "amount": "Valor",
+    "date": "Data"
+  },
+  "status": {
+    "approved": "Aprovada",
+    "rejected": "Recusada",
+    "abandoned": "Abandonada",
+    "refunded": "Reembolso",
+    "pending": "Pendente"
+  }
+}

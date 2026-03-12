@@ -1,0 +1,23 @@
+{
+  "title": "Captação de Leads",
+  "subtitle": "Encontre e importe leads via busca no Google",
+  "search": {
+    "placeholder": "Ex: Agências de marketing em São Paulo",
+    "location": "Localização",
+    "locationPlaceholder": "Ex: São Paulo, SP",
+    "button": "Buscar leads",
+    "searching": "Buscando..."
+  },
+  "import": "Importar selecionados",
+  "importAll": "Importar todos",
+  "selectStage": "Selecionar etapa do funil",
+  "limit": {
+    "used": "{{used}} de {{total}} leads este mês",
+    "warning": "Você está próximo do limite do seu plano",
+    "exceeded": "Limite atingido. Faça upgrade do plano."
+  },
+  "empty": {
+    "title": "Busque por leads",
+    "description": "Use a busca acima para encontrar potenciais clientes. Os resultados aparecerão aqui."
+  }
+}

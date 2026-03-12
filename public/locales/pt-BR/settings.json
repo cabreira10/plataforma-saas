@@ -1,0 +1,24 @@
+{
+  "title": "Configurações",
+  "subtitle": "Gerencie suas preferências e workspace",
+  "tabs": {
+    "profile": "Perfil",
+    "workspace": "Workspace",
+    "language": "Idioma"
+  },
+  "profile": {
+    "changeAvatar": "Alterar foto",
+    "name": "Nome",
+    "namePlaceholder": "Seu nome",
+    "email": "E-mail",
+    "emailPlaceholder": "seu@email.com",
+    "save": "Salvar alterações"
+  },
+  "workspace": {
+    "comingSoon": "Configurações de workspace em breve."
+  },
+  "language": {
+    "comingSoon": "Seletor de idioma em breve.",
+    "select": "Selecionar idioma"
+  }
+}

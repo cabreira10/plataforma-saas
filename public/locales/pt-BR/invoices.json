@@ -1,0 +1,19 @@
+{
+  "title": "Notas Fiscais",
+  "subtitle": "Emita e gerencie NF-e e NFS-e",
+  "tabs": {
+    "nfse": "NFS-e (Serviços)",
+    "nfe": "NF-e (Produtos)"
+  },
+  "emit": "Emitir Nota",
+  "status": {
+    "authorized": "Autorizada",
+    "cancelled": "Cancelada",
+    "rejected": "Rejeitada",
+    "pending": "Pendente"
+  },
+  "empty": {
+    "title": "Nenhuma nota fiscal emitida",
+    "description": "Emita NFS-e para serviços ou NF-e para produtos diretamente pela plataforma."
+  }
+}

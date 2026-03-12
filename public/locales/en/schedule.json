@@ -1,0 +1,36 @@
+{
+  "title": "Agenda",
+  "subtitle": "Gerencie seus agendamentos",
+  "newAppointment": "Novo Agendamento",
+  "settings": "Configurações",
+  "months": ["Janeiro","Fevereiro","Março","Abril","Maio","Junho","Julho","Agosto","Setembro","Outubro","Novembro","Dezembro"],
+  "weekDays": ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"],
+  "appointment": {
+    "title": "Título",
+    "date": "Data",
+    "time": "Horário",
+    "status": {
+      "confirmed": "Confirmado",
+      "pending": "Pendente",
+      "cancelled": "Cancelado"
+    }
+  },
+  "config": {
+    "title": "Configurações de Horário",
+    "activeDays": "Dias Ativos",
+    "startTime": "Início",
+    "endTime": "Fim",
+    "interval": "Intervalo",
+    "intervalOptions": {
+      "15": "15 minutos",
+      "20": "20 minutos",
+      "30": "30 minutos",
+      "45": "45 minutos",
+      "60": "1 hora"
+    }
+  },
+  "empty": {
+    "day": "Nenhum agendamento neste dia",
+    "dayDescription": "Clique em 'Novo Agendamento' para adicionar."
+  }
+}

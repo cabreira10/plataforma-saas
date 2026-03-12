@@ -1,0 +1,47 @@
+{
+  "title": "Follow-up",
+  "subtitle": "Gerencie sequências de acompanhamento",
+  "addCard": "Adicionar card",
+  "empty": {
+    "columnEmpty": "Nenhum card nesta coluna"
+  },
+  "metrics": {
+    "pending": "Pendentes",
+    "today": "Hoje",
+    "overdue": "Atrasados",
+    "completed": "Concluídos"
+  },
+  "columns": {
+    "new": "Novo",
+    "contacted": "Contactado",
+    "negotiating": "Negociando",
+    "won": "Ganho",
+    "lost": "Perdido",
+    "overdue": "Atrasados",
+    "today": "Hoje",
+    "nextDays": "Próximos 3 dias",
+    "thisWeek": "Esta Semana",
+    "completed": "Concluídos"
+  },
+  "actions": {
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "markDone": "Marcar como concluído"
+  },
+  "channels": {
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "phone": "Telefone"
+  },
+  "reasons": {
+    "abandoned_cart": "Carrinho abandonado",
+    "no_response": "Sem resposta",
+    "post_purchase": "Pós-compra",
+    "renewal": "Renovação"
+  },
+  "priority": {
+    "high": "Alta",
+    "medium": "Média",
+    "low": "Baixa"
+  }
+}

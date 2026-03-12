@@ -1,0 +1,32 @@
+{
+  "title": "Usuários",
+  "subtitle": "Gerencie membros e permissões do workspace",
+  "invite": "Convidar Membro",
+  "roles": "Gerenciar Cargos",
+  "table": {
+    "name": "Nome",
+    "email": "E-mail",
+    "phone": "Telefone",
+    "role": "Cargo",
+    "actions": "Ações"
+  },
+  "empty": {
+    "title": "Nenhum membro ainda",
+    "description": "Convide membros para colaborar no seu workspace."
+  },
+  "inviteModal": {
+    "title": "Convidar Membro",
+    "email": "E-mail",
+    "role": "Cargo",
+    "submit": "Enviar convite",
+    "success": "Convite enviado para {{email}}!"
+  },
+  "deleteConfirm": {
+    "title": "Remover membro",
+    "description": "O usuário perderá acesso imediatamente."
+  },
+  "permissions": {
+    "view": "Visualizar",
+    "edit": "Editar"
+  }
+}

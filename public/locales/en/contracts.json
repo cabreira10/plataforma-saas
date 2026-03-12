@@ -1,0 +1,19 @@
+{
+  "title": "Contratos",
+  "subtitle": "Crie e gerencie contratos com templates",
+  "create": "Novo Contrato",
+  "status": {
+    "draft": "Rascunho",
+    "sent": "Enviado",
+    "signed": "Assinado",
+    "cancelled": "Cancelado"
+  },
+  "empty": {
+    "title": "Nenhum contrato ainda",
+    "description": "Crie templates de contratos com variáveis dinâmicas e gere PDFs."
+  },
+  "template": {
+    "create": "Novo Template",
+    "variables": "Variáveis disponíveis"
+  }
+}

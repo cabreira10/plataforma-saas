@@ -1,0 +1,21 @@
+{
+  "title": "Pagamentos",
+  "subtitle": "Controle financeiro do workspace",
+  "metrics": {
+    "income": "Ganhos",
+    "expenses": "Saídas",
+    "commission": "Comissões",
+    "netProfit": "Lucro Líquido",
+    "revenueGoal": "Meta Receita",
+    "profitGoal": "Meta Lucro"
+  },
+  "filters": {
+    "all": "Todos",
+    "income": "Receita",
+    "expense": "Despesa",
+    "commission": "Comissão"
+  },
+  "newRecord": "Novo Registro",
+  "commission": "Configurar Comissão",
+  "goals": "Configurar Metas"
+}

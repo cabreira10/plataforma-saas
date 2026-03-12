@@ -1,0 +1,36 @@
+{
+  "actions": {
+    "save": "Save", "cancel": "Cancel", "delete": "Delete", "edit": "Edit",
+    "create": "Create", "confirm": "Confirm", "back": "Back", "search": "Search",
+    "filter": "Filter", "export": "Export", "import": "Import", "copy": "Copy",
+    "copied": "Copied!", "close": "Close", "add": "Add", "remove": "Remove",
+    "logout": "Logout", "invite": "Invite", "configure": "Configure", "view": "View",
+    "send": "Send", "download": "Download", "upload": "Upload"
+  },
+  "status": {
+    "active": "Active", "inactive": "Inactive", "pending": "Pending",
+    "completed": "Completed", "cancelled": "Cancelled", "confirmed": "Confirmed",
+    "draft": "Draft", "loading": "Loading..."
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "notFound": "Resource not found.",
+    "unauthorized": "You don't have permission for this action.",
+    "networkError": "Network error. Check your connection."
+  },
+  "nav": {
+    "dashboard": "Dashboard", "crm": "CRM", "contracts": "Contracts",
+    "invoices": "Invoices", "checkout": "Checkout", "leads": "Lead Capture",
+    "schedule": "Schedule", "payments": "Payments", "followUp": "Follow-up",
+    "users": "Users", "billing": "Plans", "settings": "Settings"
+  },
+  "roles": { "owner": "Owner", "admin": "Administrator", "member": "Member" },
+  "workspace": {
+    "selectTitle": "Select workspace", "selectSubtitle": "Choose which workspace to work with",
+    "create": "Create new workspace", "createTitle": "Create workspace",
+    "createSubtitle": "Set up your new workspace", "name": "Workspace name",
+    "namePlaceholder": "E.g.: My Company", "members": "members"
+  },
+  "pagination": { "showing": "Showing {{from}}-{{to}} of {{total}}", "previous": "Previous", "next": "Next" },
+  "confirmDelete": { "title": "Confirm deletion", "description": "This action cannot be undone. Are you sure?" }
+}

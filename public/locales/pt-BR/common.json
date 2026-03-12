@@ -1,0 +1,81 @@
+{
+  "actions": {
+    "save": "Salvar",
+    "cancel": "Cancelar",
+    "delete": "Excluir",
+    "edit": "Editar",
+    "create": "Criar",
+    "confirm": "Confirmar",
+    "back": "Voltar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "export": "Exportar",
+    "import": "Importar",
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "close": "Fechar",
+    "add": "Adicionar",
+    "remove": "Remover",
+    "logout": "Sair",
+    "invite": "Convidar",
+    "configure": "Configurar",
+    "view": "Visualizar",
+    "send": "Enviar",
+    "download": "Baixar",
+    "upload": "Enviar arquivo"
+  },
+  "status": {
+    "active": "Ativo",
+    "inactive": "Inativo",
+    "pending": "Pendente",
+    "completed": "Concluído",
+    "cancelled": "Cancelado",
+    "confirmed": "Confirmado",
+    "draft": "Rascunho",
+    "loading": "Carregando..."
+  },
+  "errors": {
+    "generic": "Algo deu errado. Tente novamente.",
+    "notFound": "Recurso não encontrado.",
+    "unauthorized": "Você não tem permissão para esta ação.",
+    "networkError": "Erro de conexão. Verifique sua internet."
+  },
+  "nav": {
+    "dashboard": "Dashboard",
+    "crm": "CRM",
+    "contracts": "Contratos",
+    "invoices": "Notas Fiscais",
+    "checkout": "Checkout",
+    "leads": "Captação de Leads",
+    "schedule": "Agenda",
+    "payments": "Pagamentos",
+    "followUp": "Follow-up",
+    "users": "Usuários",
+    "billing": "Planos",
+    "settings": "Configurações"
+  },
+  "roles": {
+    "owner": "Proprietário",
+    "admin": "Administrador",
+    "member": "Membro"
+  },
+  "workspace": {
+    "selectTitle": "Selecionar espaço de trabalho",
+    "selectSubtitle": "Escolha com qual workspace deseja trabalhar",
+    "create": "Criar novo workspace",
+    "createTitle": "Criar workspace",
+    "createSubtitle": "Configure seu novo espaço de trabalho",
+    "name": "Nome do workspace",
+    "namePlaceholder": "Ex: Minha Empresa",
+    "members": "membros"
+  },
+  "pagination": {
+    "showing": "Mostrando {{from}}-{{to}} de {{total}}",
+    "previous": "Anterior",
+    "next": "Próximo"
+  },
+  "confirmDelete": {
+    "title": "Confirmar exclusão",
+    "description": "Esta ação não pode ser desfeita. Tem certeza?"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "title": "Planos",
+  "subtitle": "Gerencie sua assinatura",
+  "currentPlan": "Plano atual",
+  "upgrade": "Fazer upgrade",
+  "manage": "Gerenciar assinatura",
+  "plans": {
+    "starter": {
+      "name": "Starter",
+      "description": "Para freelancers e profissionais solo"
+    },
+    "pro": {
+      "name": "Pro",
+      "description": "Para pequenas equipes em crescimento"
+    },
+    "business": {
+      "name": "Business",
+      "description": "Para empresas com múltiplos workspaces"
+    }
+  },
+  "billing": {
+    "monthly": "Mensal",
+    "annual": "Anual",
+    "annualDiscount": "2 meses grátis"
+  },
+  "limits": {
+    "users": "{{count}} usuários",
+    "invoices": "{{count}} NFs/mês",
+    "leads": "{{count}} leads/mês"
+  },
+  "invoice": {
+    "title": "Histórico de faturas",
+    "empty": "Nenhuma fatura ainda"
+  }
+}

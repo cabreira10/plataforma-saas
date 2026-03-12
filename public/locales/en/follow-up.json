@@ -1,0 +1,47 @@
+{
+  "title": "Follow-up",
+  "subtitle": "Manage follow-up sequences",
+  "addCard": "Add card",
+  "empty": {
+    "columnEmpty": "No cards in this column"
+  },
+  "metrics": {
+    "pending": "Pending",
+    "today": "Today",
+    "overdue": "Overdue",
+    "completed": "Completed"
+  },
+  "columns": {
+    "new": "New",
+    "contacted": "Contacted",
+    "negotiating": "Negotiating",
+    "won": "Won",
+    "lost": "Lost",
+    "overdue": "Overdue",
+    "today": "Today",
+    "nextDays": "Next 3 days",
+    "thisWeek": "This Week",
+    "completed": "Completed"
+  },
+  "actions": {
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "markDone": "Mark as done"
+  },
+  "channels": {
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "phone": "Phone"
+  },
+  "reasons": {
+    "abandoned_cart": "Abandoned cart",
+    "no_response": "No response",
+    "post_purchase": "Post-purchase",
+    "renewal": "Renewal"
+  },
+  "priority": {
+    "high": "High",
+    "medium": "Medium",
+    "low": "Low"
+  }
+}

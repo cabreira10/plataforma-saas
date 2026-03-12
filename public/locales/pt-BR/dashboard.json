@@ -1,0 +1,29 @@
+{
+  "title": "Dashboard",
+  "subtitle": "Visão geral das suas finanças",
+  "metrics": {
+    "income": "Receita",
+    "expenses": "Despesas",
+    "commission": "Comissões",
+    "netProfit": "Lucro Líquido",
+    "revenueGoal": "Meta de Receita",
+    "profitGoal": "Meta de Lucro",
+    "vsLastMonth": "vs. mês anterior",
+    "onIncome": "sobre receita"
+  },
+  "table": {
+    "title": "Últimos registros",
+    "columns": {
+      "description": "Descrição",
+      "date": "Data",
+      "type": "Tipo",
+      "status": "Status",
+      "amount": "Valor"
+    }
+  },
+  "types": {
+    "income": "Receita",
+    "expense": "Despesa",
+    "commission": "Comissão"
+  }
+}
